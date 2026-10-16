@@ -22,6 +22,8 @@ int main() {
     std::cout << "Difference = " << difference << "\n";
     std::cout << "Product = " << product << "\n";
     std::cout<<"haha";
+    std::cout<<"bye";
+    
 
     return 0;
 }
